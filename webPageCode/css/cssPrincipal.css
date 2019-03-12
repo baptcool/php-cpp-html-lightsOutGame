@@ -1,0 +1,190 @@
+body{
+    background: url(wall.jpg) center top no-repeat, #0A0F13;
+    background-size:cover;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+/* HEADER */
+body > header{
+    width: 100%;
+    height: 10%;
+    position: absolute;
+
+    background-color: #0A0F13;
+    top: 0px;
+    left:0px;
+
+    float: left;
+    clear:none;
+
+
+
+}
+/* Header de gauche (non politique) */
+header > #wrapLeft{
+    width: 30%; 
+    height: 100%; 
+    padding-left: 4%;
+    position: absolute;
+    left: 0px;
+    top: 15%;
+
+
+
+}
+body > header > #wrapLeft > .boutonInput{
+    width: 29.3%; 
+    height: 60%;
+    text-align: center;
+    font-size: 20px;
+    margin-right:1%;
+
+}
+
+header > #wrapLeft > #boutonOK{
+    position: absolute;
+    height:67%;
+    width: 10%;
+    left: 70%;
+    top:0px;
+
+
+
+    background-color: #F6E8D5;
+    border: none;
+    color: #0A0F13;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2em;
+
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+
+
+}
+header > #wrapLeft > #boutonOK:hover{
+    box-shadow: 0 12px 16px 0 white,0 17px 50px white ;
+}
+
+/* TITRE */
+.Centerer
+{
+    height: 100%;
+}
+header > #Centerer > #title{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    width: 33.6%;/*645px;*/
+    margin-left: -16.8%;
+
+}
+
+
+
+
+/* Header de droite (non politique) */
+header > #wrapRight{
+    width: 30%; 
+    height: 100%; 
+    position: absolute;
+    right: 0%;
+    top: 17%;
+
+
+}
+header > #wrapRight > form > .choixBouton#first{ 
+    position: absolute;
+    right: 55%;
+    top:0px;
+
+    width: 35%;
+    height: 65%;
+
+    background-color: #F6E8D5;
+    border: none;
+    color: #0A0F13;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 1.2em;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+header > #wrapRight > form > .choixBouton#second{
+    position: absolute;
+    right: 15%;
+    top:0px;
+
+    width: 35%;
+    height: 65%;
+
+    background-color: #F6E8D5;
+    border: none;
+    color: #0A0F13;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 1.2em;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#second_perso{
+    position: absolute;
+    right: 15%;
+    top:0px;
+
+    width: 35%;
+    height: 65%;
+
+    background-color: #ff6666;
+    border: none;
+    color: #0A0F13;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 1.2em;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+
+header > #wrapRight > form > .choixBouton:hover{
+    box-shadow: 0 12px 16px 0 white,0 17px 50px white ;
+}
+
+
+
+/* JEU */
+body > section#gameWrapper_index{
+    position:absolute;
+    
+    height: 40%; /* Vertical */
+   top: 18%;    /* Vertical */
+    
+    width: 99%; /* Horizontal */
+    margin:auto;/* Horizontal */
+    
+}
+body > section#gameWrapper{  /*pour le victoire.php
+    position:absolute;
+    
+    height: 40%; /* Vertical */
+    top:25%;    /* Vertical */
+    
+    width: 99%; /* Horizontal */
+    margin:auto;/* Horizontal */
+    
+}

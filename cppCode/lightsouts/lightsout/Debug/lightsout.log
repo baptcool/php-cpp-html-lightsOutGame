@@ -1,0 +1,35 @@
+﻿  Source.c
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(67): warning C4129: ' ': unrecognized character escape sequence
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(78): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(97): warning C4013: 'chercherswapp' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(102): warning C4013: 'echanger' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(108): warning C4013: 'xor' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(126): warning C4013: 'solution' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(155): warning C4033: 'xor' must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(165): warning C4033: 'echanger' must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(192): warning C4013: 'sol' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(193): warning C4033: 'solution' must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(197): warning C4033: 'solution' must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(203): warning C4033: 'solution' must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(260): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(322): warning C4129: 'Y': unrecognized character escape sequence
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(334): warning C4129: 'Y': unrecognized character escape sequence
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(382): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(52): warning C4020: 'definieMatrice': too many actual parameters
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(69): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(73): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(77): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(113): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(139): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(147): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\source.c(184): warning C4098: 'main': 'void' function returning a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(160): warning C4716: 'xor': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(180): warning C4716: 'echanger': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(204): warning C4716: 'solution': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(225): warning C4715: 'sol': not all control paths return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(293): warning C4716: 'affichageOnlyVec': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(310): warning C4716: 'affichageTout': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(329): warning C4716: 'procedureClassique': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(358): warning C4716: 'procedureAleaDemo': must return a value
+c:\users\baptiste\desktop\baptiste - louis - geoffroy\lightsout\header.h(346): warning C4716: 'procedureSpecial': must return a value
+  lightsout.vcxproj -> C:\Users\baptiste\Desktop\baptiste - louis - geoffroy\Debug\lightsout.exe
