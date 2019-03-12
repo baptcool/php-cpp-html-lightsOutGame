@@ -1,5 +1,4 @@
-//Lightsout Partie 3 par Baptiste Millot, Geoffroy Latour, et Louis Krempp
-//Réduisez les fonctions pour une meilleure visibilité
+
 
 //Bibliothèques utilisées
 #include <stdio.h>
