@@ -1,4 +1,4 @@
-<!DOCTYPE html> <!-- baptiste millot  - Geoffroy Latour- Louis Krempp --> 
+<!DOCTYPE html> <!-- baptiste millot --> 
 <html>
     <head>
         <title>LIGHTS OUT ! GBL</title>
